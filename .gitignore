@@ -1,0 +1,4 @@
+# Ignore input files in all day folders
+*/input.txt
+day*/input.txt
+**/input.txt
